@@ -33,18 +33,19 @@ npm install
 npm run dev
 
 #### Usage
-#1. Start the backend server:
+1. Start the backend server:
 cd back-end
 python app.py
-#2. Start the frontend:
+2. Start the frontend:
 cd front-end
 npm run dev
 
-#3. Open your browser at http://localhost:5173.
+3. Open your browser at http://localhost:5173.
 
-#4. Upload a dashboard image.
+4. Upload a dashboard image.
 
-#5. Review the compliance results:
+5. Review the compliance results:
 
 - Visual annotations of non-compliant areas.
- Textual explanations and suggestions.
+- Textual explanations and suggestions.
+
