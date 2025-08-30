@@ -49,7 +49,6 @@ npm run dev
 - Visual annotations of non-compliant areas.
 - Textual explanations and suggestions.
 
-### Project Structure
 ## Project Structure
 
 - **back-end/** – Backend logic and trained models  
@@ -58,6 +57,27 @@ npm run dev
 - **Documentation/** – Research documents and reports  
 - **IBCS_Group4_Iteration1.ipynb** – Experiment notebook  
 - **README.md** – Project documentation  
+
+## Roadmap
+- Extend compliance analysis beyond Rule B (scaling, chart labeling, chart types)  
+- Improve dataset diversity and accuracy of AI models  
+- Add real-time compliance support for BI tools (Power BI, Tableau)  
+
+---
+
+## Contributing
+This is a student group project. Contributions are currently limited to the project team.  
+
+---
+
+## License
+This project is for educational and research purposes. License details can be updated in the future.  
+
+---
+
+## Contact
+Project Team – Semester 4, Group 4  
+Mentored at Fontys University of Applied Sciences  
 
 
 
