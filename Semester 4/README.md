@@ -49,3 +49,11 @@ npm run dev
 - Visual annotations of non-compliant areas.
 - Textual explanations and suggestions.
 
+###Project Structure
+back-end/            Backend logic and trained models
+front-end/           React-based frontend
+dashboard-splitter/  Image preprocessing and splitting
+Documentation/       Research documents and reports
+IBCS_Group4_Iteration1.ipynb   Experiment notebook
+README.md            Project documentation
+
