@@ -50,11 +50,30 @@ npm run dev
 - Textual explanations and suggestions.
 
 ### Project Structure
-back-end/            Backend logic and trained models
-front-end/           React-based frontend
-dashboard-splitter/  Image preprocessing and splitting
-Documentation/       Research documents and reports
-IBCS_Group4_Iteration1.ipynb   Experiment notebook
-README.md            Project documentation
+project-root/
+├── back-end/                     # Backend logic and trained models
+│   ├── app.py
+│   ├── GraphAndTable.pt
+│   ├── tuned.pt
+│   └── resnet50_ibcs_color_compliance.keras
+│
+├── front-end/                    # React-based frontend
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── dashboard-splitter/           # Image preprocessing and splitting
+│   ├── app.py
+│   ├── Training.ipynb
+│   └── TrainingGraphAndTable.ipynb
+│
+├── Documentation/                # Research documents and reports
+│   └── ML_Research.docx
+│
+├── IBCS_Group4_Iteration1.ipynb  # Experiment notebook
+├── README.md                     # Project documentation
+└── .git/                         # Git repository data
+
 
 
